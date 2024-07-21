@@ -9,11 +9,7 @@ restaurantes = [{'nome':'praça', 'categoria':'Japones', 'ativo':False},
 
 # Exibir Nome do Programa
 def exibir_nome_do_programa():
-    print('''
-
-    ░█▀▀█ █▀▀█ █▀▀ █▀▀█ 　 ░█▀▀█ █▀▀█ █▀▄▀█ █▀▀▄ █──█ 
-    ░█─── █──█ █── █──█ 　 ░█▀▀▄ █▄▄█ █─▀─█ █▀▀▄ █──█ 
-    ░█▄▄█ ▀▀▀▀ ▀▀▀ ▀▀▀▀ 　 ░█▄▄█ ▀──▀ ▀───▀ ▀▀▀─ ─▀▀▀''')
+    print('Delivery Py')
 
 # Método para ser chamado sempre que for mudado a tela passando como parametro
 # um subtitulo para a nova tela
